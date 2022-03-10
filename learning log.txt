@@ -1,0 +1,2 @@
+1.To quit the git log, enter a "q" in git bash.
+2.To create an ".gitignore" in a repository, enter "touch .gitignore" in git bash.
