@@ -3,3 +3,4 @@
 3.To rebase the commits, use the git gui to know the commit ID, and then enter "git rebase -i [commitID]" in git bash, enter "i" to insert "p" or "s", press “esc”and enter ":wq" to save and quit, then edit the commit messages and enter ":wq" again to rebase.
 4.Use "git rebase --abort" to abort the rebase.
 5.Use "git clone https://github.com/HLYQX/git-Bash-GUI_test.git" to clone the repositories. 
+6.Use "git push https://github.com/HLYQX/git-Bash-GUI_test.git" to push the repositories to remote.
